@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_actividad" value="name:nombre;datatype:string,name:responsable;datatype:string,name:estatus;datatype:string,name:id;datatype:int,name:ano;datatype:int,name:trimestre;datatype:string" />
+</info>
